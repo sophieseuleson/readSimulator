@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: readSimulator
+message: To Cite
+type: software
+authors:
+  - given-names: Yu
+    family-names: Wan
+    email: wanyuac@gmail.com
+    affiliation: University of Liverpool
+    orcid: 'https://orcid.org/0000-0002-8354-7647'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/wanyuac/readSimulator/releases/tag/v0.0.1
+    description: v0.0.1-release
+repository-code: 'https://github.com/wanyuac/readSimulator'
+keywords:
+  - github
+license: GPL-3.0
+version: 0.0.1
+date-released: '2019-12-20'
